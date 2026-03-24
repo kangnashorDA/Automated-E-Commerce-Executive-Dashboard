@@ -33,17 +33,17 @@ DAX Measures (KPIs & Logic)
 
 ## Key Features
 ### 1. Clean UI (Executive-Friendly)
-    - Single-page dashboard
-    - Minimalist layout (no clutter, no nonsense)
-    - Focused only on key business metrics
+- Single-page dashboard
+- Minimalist layout (no clutter, no nonsense)
+- Focused only on key business metrics
 
-    Visible components:
-    - Total Sales
-    - Total Transactions
-    - Refund Rate
-    Sales breakdown by:
-        - Location
-        - Product
+Visible components:
+- Total Sales
+- Total Transactions
+- Refund Rate
+Sales breakdown by:
+    - Location
+    - Product
 ### 2. Hidden Processing Layers (Important)
 To maintain usability, all technical layers are hidden:
 | Sheet       | Purpose                   |
